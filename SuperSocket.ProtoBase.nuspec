@@ -12,6 +12,7 @@
     <description>It is a network protocol resolving library which can be used in both server and client</description>
     <tags>SuperSocket, Network Protocol, Protocol Resolving</tags>
     <dependencies>
+      <!-- 
       <group targetFramework=".NETStandard1.1">
         <dependency id="System.Linq" version="[4.3.0, )" />
         <dependency id="System.Runtime.Extensions" version="[4.3.0, )" />
@@ -19,6 +20,7 @@
         <dependency id="System.IO" version="[4.3.0, )" />
         <dependency id="System.Threading" version="[4.3.0, )" />
       </group>
+      -->
     </dependencies>
     <references>      
       <reference file="SuperSocket.ProtoBase.dll" />
